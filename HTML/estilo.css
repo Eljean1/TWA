@@ -1,0 +1,35 @@
+#content{
+	background-color: white;
+	border-radius: 20px;
+	padding-left: 20px;
+	margin: 10px;
+}
+
+#page{
+	background-color: #eae4e4;
+}
+
+li{
+	display: inline;
+	background-color: #fea500;
+	padding: 7px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 15px;
+}
+
+ul{
+	position: absolute;
+	left: 500px;
+	top: 20px;
+}
+
+h2{
+	color: #fea500;
+	font-style: oblique;
+}
+
+#footer{
+	padding-left: 30px;
+	padding-bottom: 5px;
+}
